@@ -140,6 +140,11 @@
 	height: 60px;
 }
 
+.benefits-content-list-icon > img:hover {
+    height: 80px;
+}
+/* icons made a little bit bigger on hover */
+
 .benefits-content-list-description,
 .benefits-content-list-description-blue {
 	font-style: normal;
