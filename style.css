@@ -138,10 +138,12 @@
 
 .benefits-content-list-icon > img {
 	height: 60px;
+    transition: 0.3s;
 }
 
 .benefits-content-list-icon > img:hover {
     height: 80px;
+    cursor: pointer;
 }
 /* icons made a little bit bigger on hover */
 
